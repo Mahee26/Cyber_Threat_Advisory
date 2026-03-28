@@ -1,0 +1,11 @@
+username,failed_login,time,ip,location
+user1,1,morning,known,india
+user1,2,afternoon,known,india
+user1,8,midnight,unknown,russia
+user2,1,morning,known,india
+user2,1,afternoon,known,india
+user3,5,evening,unknown,japan
+user3,2,morning,known,russia
+user3,1,afternoon,unknown,india
+user4,1,afternoon,known,india
+user4,1,midnight,known,known
